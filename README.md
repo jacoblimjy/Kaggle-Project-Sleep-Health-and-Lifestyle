@@ -1,5 +1,6 @@
 # Kaggle Project - Sleep Health and Lifestyle
-## Exploring Sleep Health and Lifestyle Factors: Predicting BMI Category Based on Age, Gender, and Occupation
+## Exploring Sleep Health and Lifestyle Factors: Predicting BMI Category Based on Age, Gender, and Occupation 
+### Numpy, Pandas, scikitlearn
 
 ## Overview:
 
